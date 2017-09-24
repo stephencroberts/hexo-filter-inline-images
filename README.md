@@ -1,4 +1,5 @@
 # hexo-filter-inline-images
+[![Build Status](https://travis-ci.org/stephencroberts/hexo-filter-inline-images.svg?branch=master)](https://travis-ci.org/stephencroberts/hexo-filter-inline-images)
 
 Hexo filter that inlines small images in HTML
 

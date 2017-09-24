@@ -1,8 +1,11 @@
 # hexo-filter-inline-images
-[![Build Status](https://travis-ci.org/stephencroberts/hexo-filter-inline-images.svg?branch=master)](https://travis-ci.org/stephencroberts/hexo-filter-inline-images)
-[![Coverage Status](https://coveralls.io/repos/github/stephencroberts/hexo-filter-inline-images/badge.svg?branch=master)](https://coveralls.io/github/stephencroberts/hexo-filter-inline-images?branch=master)
-[![npm version](https://badge.fury.io/js/hexo-filter-inline-images.svg)](https://badge.fury.io/js/hexo-filter-inline-images)
-[![NPM Dependencies](https://david-dm.org/unhealthy/hexo-filter-inline-images.svg)](https://www.npmjs.com/package/hexo-filter-inline-images)
+
+[![npm](https://img.shields.io/npm/v/hexo-filter-inline-images.svg)](https://npmjs.org/package/hexo-filter-inline-images)
+[![npm](https://img.shields.io/npm/dt/hexo-filter-inline-images.svg)](https://npmjs.org/package/hexo-filter-inline-images)
+[![Build Status](https://img.shields.io/travis/stephencroberts/hexo-filter-inline-images.svg)](https://travis-ci.org/stephencroberts/hexo-filter-inline-images)
+[![NPM Dependencies](https://img.shields.io/david/stephencroberts/hexo-filter-inline-images.svg)](https://www.npmjs.com/package/hexo-filter-inline-images)
+[![Coverage Status](https://img.shields.io/coveralls/stephencroberts/hexo-filter-inline-images.svg)](https://coveralls.io/r/stephencroberts/hexo-filter-inline-images)
+![](https://img.shields.io/npm/l/hexo-filter-inline-images.svg)
 
 Hexo filter that inlines small images in HTML
 

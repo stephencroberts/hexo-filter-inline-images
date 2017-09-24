@@ -43,6 +43,10 @@ describe('inline images', () => {
     };
   };
 
+  after(() => {
+    mock.stopAll();
+  });
+
   it('should do nothing if not enabled', () => {
     const { hexo, html, inlineImages } = setup({ enabled: false });
     const newHtml = inlineImages.call(hexo, html);

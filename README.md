@@ -1,6 +1,6 @@
 # hexo-filter-inline-images
 [![Build Status](https://travis-ci.org/stephencroberts/hexo-filter-inline-images.svg?branch=master)](https://travis-ci.org/stephencroberts/hexo-filter-inline-images)
-[![codecov](https://codecov.io/gh/stephencroberts/hexo-filter-inline-images/branch/master/graph/badge.svg)](https://codecov.io/gh/stephencroberts/hexo-filter-inline-images)
+[![Coverage Status](https://coveralls.io/repos/github/stephencroberts/hexo-filter-inline-images/badge.svg?branch=master)](https://coveralls.io/github/stephencroberts/hexo-filter-inline-images?branch=master)
 
 Hexo filter that inlines small images in HTML
 

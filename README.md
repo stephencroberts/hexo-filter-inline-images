@@ -9,6 +9,8 @@
 
 Hexo filter that inlines small images in HTML
 
+**WARNING: This project has been deprecated and is now part of https://github.com/stephencroberts/hexo-filter-inline-assets**
+
 ## Installation
 
 ```bash
